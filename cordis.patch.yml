@@ -1,0 +1,4 @@
+# Writing remote bundle patch: exposes project/library data to the client panel.
+- insert:
+    - id: writing-remote
+      name: 'dsh-writing-remote'
