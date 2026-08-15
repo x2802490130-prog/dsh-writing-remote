@@ -1,5 +1,7 @@
 # dsh-writing-remote
 
+[![npm version](https://img.shields.io/npm/v/dsh-writing-remote)](https://www.npmjs.com/package/dsh-writing-remote)  [![license](https://img.shields.io/npm/l/dsh-writing-remote)](https://github.com/x2802490130-prog/dsh-writing-remote/blob/main/LICENSE)
+
 DeepSeek Harness（DSH）写作三件套的 **host 侧数据通道**：把 [dsh-tool-writing](https://github.com/x2802490130-prog/dsh-tool-writing) 引擎的项目/书库/检索数据，以 [Typert remote](https://www.npmjs.com/package/@deepseek-ai/dsh-typert-protocol) 的形式暴露给客户端 [dsh-client-ui-writing](https://github.com/x2802490130-prog/dsh-client-ui-writing) 面板。
 
 ## 为什么单独一个包
