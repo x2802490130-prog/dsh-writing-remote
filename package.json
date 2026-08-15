@@ -1,6 +1,6 @@
 {
   "name": "dsh-writing-remote",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Host-side Typert remote exposing the writing engine's read/search data to the client panel.",
   "keywords": [
     "deepseek-harness",
@@ -22,7 +22,7 @@
     "@deepseek-ai/dsh-typert-protocol": "^0.1.0-rc.6"
   },
   "dependencies": {
-    "dsh-tool-writing": "0.4.0"
+    "dsh-tool-writing": "0.5.0"
   },
   "repository": {
     "type": "git",
