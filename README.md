@@ -24,7 +24,7 @@ DeepSeek Harness（DSH）写作面板的 host 侧数据通道：把 [dsh-tool-wr
 ```bash
 npm install dsh-writing-remote
 # 或
-dsh plugin add dsh-writing-remote
+dsh plugin --profile web add dsh-writing-remote
 ```
 
 配置项：`libraryRoot`（默认 `$DSH_HOME/writing-library`）。
